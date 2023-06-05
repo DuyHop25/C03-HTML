@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to right, #fcbf16 , #992154);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    margin: 0px;
+    padding: 50px 0px 100px 0px;
+    color: white;
+    letter-spacing: 5px;
+    text-align: center;
+}
+img{
+    border-radius: 50%;     
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,83%);
+}
